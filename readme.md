@@ -1,5 +1,7 @@
 # active-win
 
+This forks tries to fix AX prompt bug by commenting out that part of the code
+
 Get metadata about the [active window](https://en.wikipedia.org/wiki/Active_window) (title, id, bounds, owner, URL, etc)
 
 Works on macOS, Linux ([note](#linux-support)), and Windows.
